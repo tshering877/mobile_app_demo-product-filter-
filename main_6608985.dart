@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'product_filter_6608985.dart';
+import 'product_filter.dart';
 
 void main() {
   runApp(MyApp());
